@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I am Manish Rana, I'm a fronend developer from nepal</h1>
+<h1 align="center">hey there 👋 I am Manish Rana, I'm a frontend developer from nepal</h1>
 
 ###
 
