@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4dnF0aGM3ZXExMnM4dTB0anZobzB0MDlnbXdsaHp4dmY2YTNpYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/91BCkba1STSmzb4UWK/giphy.gif"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -23,11 +18,7 @@
 
 <h3 align="left">My portfolio,<br>https://www.rana-manish.com.np/</h3>
 
-###
 
-<p align="left"></p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -49,14 +40,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=manishcodes-dot&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
