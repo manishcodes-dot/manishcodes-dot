@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">My portfolio,<br>https://www.rana-manish.com.np/</h3>
+<h3 align="left">My portfolio<br>https://www.rana-manish.com.np/</h3>
 <h3 align='left'> About me </h3>
 <p>Hi! I’m a passionate learner who enjoys building projects in web development. I love solving problems, improving my skills, and creating clean, functional code.My GitHub includes experiments, coursework projects, and things I build for fun. Always improving, always building.</p>
 
