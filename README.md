@@ -5,6 +5,8 @@
 ###
 
 <h3 align="left">My portfolio,<br>https://www.rana-manish.com.np/</h3>
+<h3 align='left'> About me </h3>
+<p>Hi! I’m a passionate learner who enjoys building projects in web development. I love solving problems, improving my skills, and creating clean, functional code.My GitHub includes experiments, coursework projects, and things I build for fun. Always improving, always building.</p>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
