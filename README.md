@@ -2,7 +2,8 @@
 
 <h1 align="center">hey there 👋 I am Manish Rana, I'm a frontend developer from nepal</h1>
 
-<h1 align="left">My portfolio<br>https://www.rana-manish.com.np/</h1>
+<h1 align="left">My portfolio</h1>
+https://www.rana-manish.com.np
 
 
 <h1 align='left'> About me </h1>
@@ -23,7 +24,7 @@
 
 
 
-<h1 align="left">🛠 Language and tools</h1>
+<h1 align="left"> Language and tools</h1>
 
 ###
 
