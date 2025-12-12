@@ -2,14 +2,14 @@
 
 <h1 align="center">hey there 👋 I am Manish Rana, I'm a frontend developer from nepal</h1>
 
-<h3 align="left">My portfolio<br>https://www.rana-manish.com.np/</h3>
+<h1 align="left">My portfolio<br>https://www.rana-manish.com.np/</h1>
 
 
-<h3 align='left'> About me </h3>
+<h1 align='left'> About me </h1>
 <p>Hi! I’m a passionate learner who enjoys building projects in web development. I love solving problems, improving my skills, and creating clean, functional code.My GitHub includes experiments, coursework projects, and things I build for fun. Always improving, always building.</p>
 
 
-<h3> Connect with me </h3>
+<h1> Connect with me </h1>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
@@ -23,7 +23,7 @@
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
