@@ -2,6 +2,10 @@
 
 <h1 align="center">hey there 👋 I am Manish Rana, I'm a frontend developer from nepal</h1>
 
+<P>
+  i am currently learning node.js, express.js and MongoDB.
+</P>
+
 <h1 align="left">My portfolio</h1>
 https://www.rana-manish.com.np
 
