@@ -6,7 +6,7 @@
 </P>
 
 <h1 align="left">My portfolio</h1>
-https://www.rana-manish.com.np [The portfolio is incomplete]
+https://www.rana-manish.com.np 
 
 <h1 align='left'> About me </h1>
 <p>Hi! I’m a passionate learner who enjoys building projects in web development. I love solving problems, improving my skills, and creating clean, functional code.My GitHub includes experiments, coursework projects, and things I build for fun. Always improving, always building.</p>
