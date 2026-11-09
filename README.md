@@ -63,4 +63,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishcodes-dot&show_icons=true&locale=en" alt="manishcodes-dot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishcodes-dot&" alt="manishcodes-dot" /></p>
-
+<div align="center">
+  <img
+    src="koi/koi.gif"
+    width="256"
+    alt="My GitHub Koi"
+  />
+</div>
