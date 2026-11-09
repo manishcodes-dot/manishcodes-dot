@@ -1,21 +1,20 @@
 
 # GitHub profile
 
-<table>
+<table   border-radius: 12px;  >
   <tr>
     <td width="130" align="center">
-      <img src="koi/koi.gif" width="120" alt="My GitHub Koi" />
-    </td>
+<img
+  src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/koi/koi.gif"
+  width="120"
+  alt="My GitHub Koi"
+  align="left"
+  style="border-radius: 20px;"
+/>    </td>
     <td>
-      <h3>Manish</h3>
-      Developer · IT Student
+      <h2>Manish Rana</h2>
       <br />
-      Git Koi + Contribution Graph + Projects
-      <br />
-      <a href="https://github.com/manishcodes-dot">
-        github.com/manishcodes-dot
-      </a>
-    </td>
+      <p>Devloper</p>
   </tr>
 </table>
 
