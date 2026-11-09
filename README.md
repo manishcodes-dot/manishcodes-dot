@@ -9,12 +9,12 @@
       />
     </td>
     <td valign="middle">
-      <h2 style="margin: 0;">Manish Rana</h2>
+      <h1 style="margin: 0;">Manish Rana</h1>
       <h3 style="margin: 4px 0;">Developer · IT Student</h3>
-      <p style="margin: 4px 0;">
+      <h3>
         <b>Things I love to do:</b> Building things with code and exploring technology.
       </p>
-      <p style="margin: 4px 0;">
+      <h3>
         Nepal · <a href="https://rana-manish.com.np">Portfolio</a>
       </p>
     </td>
@@ -23,10 +23,34 @@
 
 ---
 
-## Personal Portfolio
 
-- [About Me](https://rana-manish.com.np/#about)
-- [Skills and Technologies](https://rana-manish.com.np/#skills)
-- [Featured Projects](https://rana-manish.com.np/#projects)
-- [GitHub Activity](https://rana-manish.com.np/#github)
-- [GitHub Profile](https://github.com/manishcodes-dot)
+## Technologies & Tools
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend technologies" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend technologies" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,docker" alt="Development tools" />
+</p>
+
+---
+
+## Featured Projects
+
+
+
+---
+
+## GitHub Activity
+
