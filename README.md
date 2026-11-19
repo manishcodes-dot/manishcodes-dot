@@ -4,7 +4,7 @@
     <td width="150" align="center" valign="middle">
       <img
     <p align="center">
-      
+      <img src="https://github.com/manishcodes-dot.png" width="150" alt="GitHub Profile Picture" />
 </p>
     </td>
     <td valign="middle">
@@ -25,7 +25,7 @@
     width="100%"
     alt="GitHub Contribution Whale"
   />
----
+
 
 
 ## Technologies & Tools
