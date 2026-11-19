@@ -3,10 +3,13 @@
   <tr>
     <td width="150" align="center" valign="middle">
       <img
-        src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/koi/koi.gif"
-        width="120"
-        alt="My GitHub Koi"
-      />
+    <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/tulkun/tulkun.gif"
+    width="100%"
+    alt="GitHub Contribution Whale"
+  />
+</p>
     </td>
     <td valign="middle">
       <h1 style="margin: 0;">Manish Rana</h1>
