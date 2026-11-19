@@ -4,8 +4,7 @@
     <td width="150" align="center" valign="middle">
       <img
     <p align="center">
-      <img src="./images/everthing1" width="150" alt="profile picture" />
-</p>
+<img src="./images/everything1.jpeg" width="250" alt="Profile" /></p>
     </td>
     <td valign="middle">
       <h1 style="margin: 0;">Manish Rana</h1>
@@ -51,9 +50,23 @@
 ---
 
 ## Featured Projects
+<p align="center">
+  <a href="https://example.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/images/profile.png"
+      width="150"
+      alt="Profile"
+    />
+  </a>
 
-
-
+  <a href="https://google.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/images/banner.png"
+      width="150"
+      alt="Banner"
+    />
+  </a>
+</p>
 ---
 
 ## Currently Working On
