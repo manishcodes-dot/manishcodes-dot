@@ -4,11 +4,7 @@
     <td width="150" align="center" valign="middle">
       <img
     <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/tulkun/tulkun.gif"
-    width="100%"
-    alt="GitHub Contribution Whale"
-  />
+      
 </p>
     </td>
     <td valign="middle">
@@ -23,7 +19,12 @@
     </td>
   </tr>
 </table>
-
+  
+  <img
+    src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/tulkun/tulkun.gif"
+    width="100%"
+    alt="GitHub Contribution Whale"
+  />
 ---
 
 
