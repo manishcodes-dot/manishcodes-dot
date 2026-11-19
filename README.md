@@ -4,7 +4,7 @@
     <td width="150" align="center" valign="middle">
       <img
     <p align="center">
-      <img src="https://github.com/manishcodes-dot.png" width="150" alt="GitHub Profile Picture" />
+      <img src="./images/everthing1" width="150" alt="profile picture" />
 </p>
     </td>
     <td valign="middle">
