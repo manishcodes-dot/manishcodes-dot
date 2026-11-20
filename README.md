@@ -47,31 +47,42 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,docker" alt="Development tools" />
 </p>
 
----
+
 
 ## Featured Projects
-<p align="center">
-  <a href="https://example.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/images/profile.png"
-      width="150"
-      alt="Profile"
-    />
-  </a>
 
-  <a href="https://google.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/manishcodes-dot/manishcodes-dot/main/images/banner.png"
-      width="150"
-      alt="Banner"
-    />
-  </a>
-</p>
----
+These projects were done purely for practice purpose and will change into real projects near future. 
+
+<ul>
+  <li>
+    <a href="https://test12418.netlify.app/" target="_blank"><b>Creama & Co</b></a>
+    : It is the a Cafe Site in a minimalist design.
+  </li>
+
+  <li>
+    <a href="https://cheery-pegasus-71d26c.netlify.app/" target="_blank"><b>Gokyo Bistro</b></a>
+    : It is a Home Delivery Food website.
+  </li>
+
+  <li>
+    <a href="https://github.com/manishcodes-dot/craft-avatar.git" target="_blank"><b>NPM Package One</b></a>
+    : It is a npm packages that can create random avatar for your projects.
+  </li>
+</ul>
+
 
 ## Currently Working On
+<ul>
+  <li>
+    <a href="https://github.com/manishcodes-dot/kosh" target="_blank"><b>Kosh</b></a>
+    : It is simply a img storing site that can also be shared with others.
+  </li>
 
----
+  <li>
+    <a href="https://github.com/manishcodes-dot/Live-interview-website" target="_blank"><b>interview</b></a>
+    : It is a simple interview site to hire developer based on there skills, which is tested by either face to face by video call with build in code editor or with given assessment.
+  </li>
+</ul>
+
 ## Way to Connect With Me 
 ---
-
